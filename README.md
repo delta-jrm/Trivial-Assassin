@@ -275,7 +275,7 @@ Taking the scores from the three answer-types provided, take the average and sug
 
 I won't sugar coat this, *Trivial Assassin* was quite the programming journey to go through. Because
 I had the earlier version, I thought this would be a cakewalk to integrate NLP. Was it? NO! There
-are still so many difficulties. Here's my list of greivances with the current application.
+are still so many difficulties. Here's my list of grievances with the current application.
 
 * Sometimes, the wikipedia api I'm using doesn't catch the subsections. Often times, this renders
   every document in the keyword corpus not having a single occurence of an answer show up in TF-IDF.
