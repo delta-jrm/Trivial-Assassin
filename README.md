@@ -253,7 +253,7 @@ information and corresponding scores.
         
 **LOOK THROUGH HIGH PRIORITY DOCUMENTS TO CALCULATE DISTANCE-BASED ANSWER BETWEEN ANSWER KEYWORDS AND QUESTION KEYWORDS**
 _____
-For each anser in each document, the distance between the term and the answer is calculated. The
+For each answer in each document, the distance between the term and the answer is calculated. The
 minimum-distance should be favored and weighted accordingly with the score. The suggested answer is
 provided accordingly.
 
